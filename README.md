@@ -43,7 +43,7 @@
             <a href="https://github.com/oGate2/oGate/blob/master/README.md">网址3</a>
           </td>
           <td>
-            <a href="https://github.com/osurf/osurf/blob/master/README.md">网址4</a>
+            <a href="https://github.com/shortpathway/books/blob/master/README.md">禁书下载</a>
           </td>
         </tr>
       </table>
